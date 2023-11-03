@@ -1,0 +1,7 @@
+com\salesianostriana\dam\EjemploJoined\InitData.class
+com\salesianostriana\dam\EjemploJoined\EjemploJoinedApplication.class
+com\salesianostriana\dam\EjemploJoined\Model\Producto.class
+com\salesianostriana\dam\EjemploJoined\Model\Producto$ProductoBuilder.class
+com\salesianostriana\dam\EjemploJoined\Model\ProductoPremium.class
+com\salesianostriana\dam\EjemploJoined\Repositorios\ProductoPremiumRepo.class
+com\salesianostriana\dam\EjemploJoined\Repositorios\ProductoRepo.class
